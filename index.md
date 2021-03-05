@@ -6,9 +6,9 @@ layout: default
 ## Junior Q/A / Тестировщик ПО
 Москва, Домодедовская
 телефон: (+7) (905) 521-97-83
-email: ludi.vokrug@gmail.com     Telegram: https://t.me/ludivokrug
+email: ludi.vokrug@gmail.com     Telegram: [https://t.me/ludivokrug](https://t.me/ludivokrug)
 
-***
+---
 
 ## НАВЫКИ
 + составление __чек-листов__ (пример), **mindmap** (пример) и **тест-кейсов** (пример);
