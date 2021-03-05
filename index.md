@@ -2,11 +2,23 @@
 layout: default
 ---
 
+<table border="0">
+   <tr>
+    <th>### Junior Q/A / Тестировщик ПО</th>
+    <th> </th>
+
+   </tr>
+   <tr><td>Москва, Домодедовская</td><td> </td></tr>
+   <tr><td>телефон: (+7) (905) 521-97-83</td><td> </td></tr>
+   <tr><td>email: ludi.vokrug@gmail.com</td><td> </td></tr>
+   <tr><td>Telegram: [https://t.me/ludivokrug](https://t.me/ludivokrug "мой телеграм")</td><td> </td></tr>
+  </table> 
 # Алексей Мицкевич   
 ### Junior Q/A / Тестировщик ПО  
 Москва, Домодедовская  
 телефон: (+7) (905) 521-97-83  
-email: ludi.vokrug@gmail.com     Telegram: [https://t.me/ludivokrug](https://t.me/ludivokrug "мой телеграм")
+email: ludi.vokrug@gmail.com  
+Telegram: [https://t.me/ludivokrug](https://t.me/ludivokrug "мой телеграм")
 
 ---
 
