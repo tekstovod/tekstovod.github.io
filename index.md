@@ -8,19 +8,15 @@ layout: default
     <th> </th>
 
    </tr>
-   <tr><td>Москва, Домодедовская</td><td><img src="/Pic/ava.jpg" alt="аватар">
- </td></tr>
-   <tr><td>телефон: (+7) (905) 521-97-83</td><td> </td></tr>
-   <tr><td>email: ludi.vokrug@gmail.com</td><td> </td></tr>
-   <tr><td>Telegram: <a href="https://t.me/ludivokrug"> https://t.me/ludivokrug</a></td><td> </td></tr>
-  </table> 
+   <tr><td>
 # Алексей Мицкевич   
 ### Junior Q/A / Тестировщик ПО  
 Москва, Домодедовская  
 телефон: (+7) (905) 521-97-83  
 email: ludi.vokrug@gmail.com  
 Telegram: [https://t.me/ludivokrug](https://t.me/ludivokrug "мой телеграм")
-
+<td><img src="http://tekstovod.github.io/Pic/ava.jpg"></td></tr>
+  </table> 
 ---
 
 ## НАВЫКИ
