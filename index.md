@@ -48,7 +48,7 @@ Telegram: <a rhef="https://t.me/ludivokrug">https://t.me/ludivokrug</a></td>
 Ссылка на портфолио на Google Drive 
 
 
-<table border="0">
+<table border="0" table-layout: fixed; width: 100%; >
    <tr>
     <th> ОПЫТ РАБОТЫ </th>
     <th> ОБРАЗОВАНИЕ </th>
