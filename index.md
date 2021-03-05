@@ -4,7 +4,7 @@ layout: default
 
 <table border="0">
    <tr>
-    <th> </th>
+    <th>                              </th>
     <th> </th>
    </tr>
    <tr><td>
@@ -46,4 +46,19 @@ Telegram: <a rhef="https://t.me/ludivokrug">https://t.me/ludivokrug</a></td>
 + английский язык - понимаю техническую документацию (документация по Selenium IDE и Jekyll), регулярно пользуюсь man справкой, могу составить простой багрепорт.
 
 Ссылка на портфолио на Google Drive 
+
+
+<table border="0">
+   <tr>
+    <th> ОПЫТ РАБОТЫ </th>
+    <th> ОБРАЗОВАНИЕ </th>
+   </tr>
+   <tr><td>
+<h3>Junior Q/A / Тестировщик ПО</h3>
+Москва, Домодедовская <br>
+телефон: <a href="tel:+79055219783"> +7 (905) 521-97-83</a> <br>
+email: <a href="mailto:ludi.vokrug@gmail.com">ludi.vokrug@gmail.com</a> <br>
+Telegram: <a rhef="https://t.me/ludivokrug">https://t.me/ludivokrug</a></td>
+<td><img src="http://tekstovod.github.io/pic/ava.jpg"></td></tr>
+</table> 
 
