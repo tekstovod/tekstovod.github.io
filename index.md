@@ -14,9 +14,9 @@ layout: default
 Москва, Домодедовская  
 телефон: (+7) (905) 521-97-83  
 email: ludi.vokrug@gmail.com  
-Telegram: [https://t.me/ludivokrug](https://t.me/ludivokrug "мой телеграм")
+Telegram: [https://t.me/ludivokrug](https://t.me/ludivokrug "мой телеграм")</td>
 <td><img src="http://tekstovod.github.io/Pic/ava.jpg"></td></tr>
-  </table> 
+</table> 
 ---
 
 ## НАВЫКИ
