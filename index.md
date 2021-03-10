@@ -48,7 +48,7 @@ Telegram: <a rhef="https://t.me/ludivokrug">https://t.me/ludivokrug</a></td>
 Ссылка на портфолио на Google Drive 
 
 <style type="text/css">
-table {
+table1 {
   table-layout: fixed;
   width: 100%;
 }
@@ -59,7 +59,7 @@ td, th {
 }
 </style>
 
-<table border="0">
+<table1 border="0">
    <tr>
     <th> <h2>ОПЫТ РАБОТЫ</h2> </th>
     <th> <h2>ОБРАЗОВАНИЕ</h2> </th>
@@ -84,5 +84,5 @@ td, th {
 - Юридический факультет, гражданско-правовая специализация, юрист.<br>
 - Педагогический факультет, преподаватель права.<br>
 </td></tr>
-</table> 
+</table1> 
 
