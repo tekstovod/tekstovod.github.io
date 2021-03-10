@@ -7,7 +7,7 @@ layout: default
     <th>                              </th>
     <th> </th>
    </tr>
-   <tr><td valign="center">
+   <tr><td vertical-align="center">
 <h2>Junior Q/A / Тестировщик ПО</h2>
 Москва, Домодедовская <br>
 телефон: <a href="tel:+79055219783"> +7 (905) 521-97-83</a> <br>
@@ -18,25 +18,25 @@ Telegram: <a rhef="https://t.me/ludivokrug">https://t.me/ludivokrug</a></td>
 
 
 ## НАВЫКИ
-+ составление __чек-листов__ (пример), **mindmap** (пример) и **тест-кейсов** (пример);
-+ составление баг-репортов в **Jira** и **bugzilla** (примеры);
++ составление __чек-листов__ (<a rhef="https://docs.google.com/document/d/1YgFdAitE1fVmRqhgJyb6A1HzXOovrznoEPwCYiV4u-o/edit?usp=sharing">пример</a>), **mindmap** (<a rhef="https://drive.google.com/file/d/1oxhYQovzLW8qCcMKSk_B1EPMX5TMI5V4/view?usp=sharing">пример</a> ) и **тест-кейсов** (<a rhef="https://docs.google.com/document/d/18qSnPJlKlxhsUzWNJBdMjrnvakvGqFdfx2237jm4YJg/edit?usp=sharing">пример</a>);
++ составление баг-репортов в **Jira** (<a href="https://drive.google.com/file/d/161ae9PQWw0hrNIhQdfy0sqks8ptySPx_/view?usp=sharing">пример</a>)и **bugzilla** (<a href="https://drive.google.com/file/d/11ypvhSZ1OOBA6QXXeP9AFKzWVT8DHFIL/view?usp=sharing">пример</a>);
 + **Git**  
-(могу добавить изменения в репозитарий (add), скачать коммиты на локальную машину (знаю разницу между pull и fetch), слить коммиты (merge), подписать коммит (commit) и загрузить его на сервер (push)), это же резюме на Github Pages через git и собрано в Jekyll
+(могу добавить изменения в репозитарий (add), скачать коммиты на локальную машину (знаю разницу между pull и fetch), слить коммиты (merge), подписать коммит (commit) и загрузить его на сервер (push)), это резюме размещено на Github Pages через git и собрано в Jekyll
 + **bash**  
 (смогу через терминал найти, создать, удалить, переименовать файл, изменить ему права доступа, т.е. знаю ls, cp, mv, cat, man, немного grep);
 + **SQL**  
-(10 выполненных заданий на sql-ex.ru), немного работал в _DB Browser_ (примеры в портфолио);
+(10 выполненных заданий на sql-ex.ru), немного работал в _DB Browser_ (<a href="https://drive.google.com/drive/folders/1mSFusmefIqfBqKNo41i8HeiODzWucKu4?usp=sharing">примеры в портфолио</a>);
 + **Selenium IDE**  
 записывал простые тесты, прослушал открытый интенсив от Skillbox);
 + **Chrome Dev Tools**  
 (менял useragent, имитировал браузер смартфона для публикации поста в инстаграм, менял цвет и текст элементов сайта);
 + **QEMU/ Gnome Boxes**(запускал версии дистрибутивов различных операционных систем),  
-  **VIM/neoVIM** (осваиваю, заменяю им nano и Gedit),  
+  **VIM/neoVIM** (осваиваю, заменяю им nano и Gedit),<a href="https://github.com/ludi-vokrug/dot.vim">конфиг есть на страничке Github</a>  
   **ftp/ssh** (соединялся с удаленной машиной, качал/загружал файлы),  
   **AnyDesk/TeamViewer** (настраивал соединение, в т.ч. из linux (Ubuntu/Fedora) с Windows-машиной),  
   **adb** (ставил Ubuntu Touch и Sailfish OS на Nexus 4),  
   **HTML и CSS** (могу поменять в готовом шаблоне цвет, шрифт, ширину элемента или страницы, удалить ненужный блок данных),  
-  **lamp/mamp/denwer** (поднимал локальные копии Wordpress и “Эгея” для тестирования тем и плагинов).
+  **LAMP/MAMP/DENVER** (поднимал локальные копии Wordpress и “Эгея” для тестирования тем и плагинов).
  
 ## ЗНАЮ
 
@@ -45,19 +45,9 @@ Telegram: <a rhef="https://t.me/ludivokrug">https://t.me/ludivokrug</a></td>
 + клиент-серверную архитектуру;
 + английский язык - понимаю техническую документацию (документация по Selenium IDE и Jekyll), регулярно пользуюсь man справкой, могу составить простой багрепорт.
 
-Ссылка на портфолио на Google Drive 
+Ссылка на портфолио на <a href="https://drive.google.com/drive/folders/1uRbR2jLwcMhU6GdS2McZGnfwh22El-pT?usp=sharing">Google Drive</a> 
 
-<style type="text/css">
-table1 {
-  table-layout: fixed;
-  width: 100%;
-}
-td, th {
-  width: 2%; 
-  padding: 5px;
-  vertical-align: top; 
-}
-</style>
+
 
 <table border="0" layout="fixed">
    <tr>
@@ -67,6 +57,7 @@ td, th {
    <tr><td valign="top">
 <b>фриланс</b><br>
 октябрь 2018 – настоящее время<br>
+<br>
 - копирайтинг<br>
 - ведение профилей в соцсетях<br>
 - составление юр. док-тов<br>
