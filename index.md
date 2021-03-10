@@ -7,13 +7,13 @@ layout: default
     <th>                              </th>
     <th> </th>
    </tr>
-   <tr><td valign="top">
+   <tr><td valign="center">
 <h2>Junior Q/A / Тестировщик ПО</h2>
 Москва, Домодедовская <br>
 телефон: <a href="tel:+79055219783"> +7 (905) 521-97-83</a> <br>
 email: <a href="mailto:ludi.vokrug@gmail.com">ludi.vokrug@gmail.com</a> <br>
 Telegram: <a rhef="https://t.me/ludivokrug">https://t.me/ludivokrug</a></td>
-<td align="left"><img src="http://tekstovod.github.io/pic/ava.jpg"></td></tr>
+<td align="right"><img src="http://tekstovod.github.io/pic/ava.jpg"></td></tr>
 </table> 
 
 
@@ -58,6 +58,7 @@ td, th {
   vertical-align: top; 
 }
 </style>
+
 <table border="0">
    <tr>
     <th> <h2>ОПЫТ РАБОТЫ</h2> </th>
@@ -69,7 +70,7 @@ td, th {
 - копирайтинг<br>
 - ведение профилей в соцсетях<br>
 - составление юр. док-тов<br>
- 
+ <br>
 <b>Юридическая работа,
 Москва/Видное (МО)</b><br>
 октябрь 2007 – август 2018<br>
@@ -77,8 +78,9 @@ td, th {
 - юрист на предприятии<br>
 </td>
 <td>
-<b>Московский государственный областной университет, Москва – специалист<b><br>
+<b>Московский государственный областной университет, Москва – специалист</b><br>
 сентябрь 2002 – июль 2007<br>
+<br>
 - Юридический факультет, гражданско-правовая специализация, юрист.<br>
 - Педагогический факультет, преподаватель права.<br>
 </td></tr>
