@@ -13,7 +13,7 @@ layout: default
 телефон: <a href="tel:+79055219783"> +7 (905) 521-97-83</a> <br>
 email: <a href="mailto:ludi.vokrug@gmail.com">ludi.vokrug@gmail.com</a> <br>
 Telegram: <a rhef="https://t.me/ludivokrug">https://t.me/ludivokrug</a></td>
-<td align="right"><img src="http://tekstovod.github.io/pic/ava.jpg"></td></tr>
+<td valign="right"><img src="http://tekstovod.github.io/pic/ava.jpg"></td></tr>
 </table> 
 
 
@@ -59,12 +59,12 @@ td, th {
 }
 </style>
 
-<table1 border="0">
+<table border="0"; table-layout: "fixed";>
    <tr>
     <th> <h2>ОПЫТ РАБОТЫ</h2> </th>
     <th> <h2>ОБРАЗОВАНИЕ</h2> </th>
    </tr>
-   <tr><td>
+   <tr><td valign="top">
 <b>фриланс</b><br>
 октябрь 2018 – настоящее время<br>
 - копирайтинг<br>
@@ -77,12 +77,12 @@ td, th {
 - представительство в суде<br>
 - юрист на предприятии<br>
 </td>
-<td>
+<td valign="top">
 <b>Московский государственный областной университет, Москва – специалист</b><br>
 сентябрь 2002 – июль 2007<br>
 <br>
 - Юридический факультет, гражданско-правовая специализация, юрист.<br>
 - Педагогический факультет, преподаватель права.<br>
 </td></tr>
-</table1> 
+</table> 
 
