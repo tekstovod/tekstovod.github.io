@@ -13,7 +13,7 @@ layout: default
 телефон: <a href="tel:+79055219783"> +7 (905) 521-97-83</a> <br>
 email: <a href="mailto:ludi.vokrug@gmail.com">ludi.vokrug@gmail.com</a> <br>
 Telegram: <a rhef="https://t.me/ludivokrug">https://t.me/ludivokrug</a></td>
-<td><img src="http://tekstovod.github.io/pic/ava.jpg"></td></tr>
+<td align="right"><img src="http://tekstovod.github.io/pic/ava.jpg"></td></tr>
 </table> 
 
 
@@ -53,13 +53,15 @@ table {
   width: 100%;
 }
 td, th {
-  width: 2%;
+  width: 2%; 
+  padding: 5px;
+  vertical-align: top; 
 }
 </style>
 <table border="0">
    <tr>
     <th> <h2>ОПЫТ РАБОТЫ</h2> </th>
-    <th> ОБРАЗОВАНИЕ </th>
+    <th> <h2>ОБРАЗОВАНИЕ</h2> </th>
    </tr>
    <tr><td>
 <h3>фриланс</h3><br>
