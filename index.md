@@ -13,7 +13,7 @@ layout: default
 телефон: <a href="tel:+79055219783"> +7 (905) 521-97-83</a> <br>
 email: <a href="mailto:ludi.vokrug@gmail.com">ludi.vokrug@gmail.com</a> <br>
 Telegram: <a rhef="https://t.me/ludivokrug">https://t.me/ludivokrug</a></td>
-<td align="right"><img src="http://tekstovod.github.io/pic/ava.jpg"></td></tr>
+<td align="left"><img src="http://tekstovod.github.io/pic/ava.jpg"></td></tr>
 </table> 
 
 
