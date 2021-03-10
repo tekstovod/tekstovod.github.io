@@ -59,7 +59,7 @@ td, th {
 }
 </style>
 
-<table border="0"; table-layout: "fixed";>
+<table border="0" layout="fixed">
    <tr>
     <th> <h2>ОПЫТ РАБОТЫ</h2> </th>
     <th> <h2>ОБРАЗОВАНИЕ</h2> </th>
